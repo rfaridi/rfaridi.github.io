@@ -3,7 +3,7 @@
 <h1> List of pages: </h1> 
 
 <ul>
-    <li><a href="rfaridi.github.io/DHS-data">DHS-data</a></li>
-   <li><a href="rfaridi.github.io/NBR-data">NBR-data</a></li>
-   <li><a href="rfaridi.github.io/mass-transport">NBR-data</a></li>
+    <li><a href="./DHS-data">DHS data analysis</a></li>
+   <li><a href="./NBR-data">NBR data analysis</a></li>
+   <li><a href="./mass-transport">Mass transportation</a></li>
 </ul>
